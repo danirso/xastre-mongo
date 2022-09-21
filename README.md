@@ -1,1 +1,1 @@
-# xastre-mongol
+# xastre-mongo
