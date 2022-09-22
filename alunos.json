@@ -1,0 +1,30 @@
+{
+    "_id" : ObjectId("632cdbd27cb5b513bf75b54f"),
+    "nome" : "denis",
+    "id_materia" : "3062",
+    "ra" : "22000787"
+}
+{
+    "_id" : ObjectId("632cdc557cb5b513bf75b550"),
+    "id_materia" : "3426",
+    "nome" : "konda",
+    "ra" : "22008026"
+}
+{
+    "_id" : ObjectId("632cdd447cb5b513bf75b551"),
+    "nome" : "bertinho",
+    "ra" : "22007440",
+    "id_materia" : "3062"
+}
+{
+    "_id" : ObjectId("632cdd6c7cb5b513bf75b552"),
+    "nome" : "magas",
+    "ra" : "22008674",
+    "id_materia" : "2897"
+}
+{
+    "_id" : ObjectId("632cdd857cb5b513bf75b553"),
+    "nome" : "revolta",
+    "ra" : "22009876",
+    "id_materia" : "4569"
+}

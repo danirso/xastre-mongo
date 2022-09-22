@@ -1,0 +1,24 @@
+{
+    "_id" : ObjectId("632cdef67cb5b513bf75b560"),
+    "nome" : "pannain",
+    "id_materia" : "2897",
+    "rp" : "1"
+}
+{
+    "_id" : ObjectId("632cdf1b7cb5b513bf75b561"),
+    "nome" : "miro",
+    "id_materia" : "3062",
+    "rp" : "15000624"
+}
+{
+    "_id" : ObjectId("632cdf417cb5b513bf75b562"),
+    "nome" : "xastre",
+    "id_materia" : "3426",
+    "rp" : "19007695"
+}
+{
+    "_id" : ObjectId("632cdf5f7cb5b513bf75b563"),
+    "nome" : "dimas",
+    "id_materia" : "4569",
+    "rp" : "16000897"
+}

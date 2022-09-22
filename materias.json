@@ -1,0 +1,24 @@
+{
+    "_id" : ObjectId("632cde437cb5b513bf75b557"),
+    "rp" : "15000624",
+    "id" : "3062",
+    "nome" : "calculo"
+}
+{
+    "_id" : ObjectId("632cde727cb5b513bf75b558"),
+    "rp" : "19007695",
+    "id" : "3426",
+    "nome" : "PI:desenvolvimento web"
+}
+{
+    "_id" : ObjectId("632cde8e7cb5b513bf75b559"),
+    "rp" : "1",
+    "id" : "2897",
+    "nome" : "organizacao de sistemas"
+}
+{
+    "_id" : ObjectId("632cdeaa7cb5b513bf75b55a"),
+    "rp" : "16000987",
+    "id" : "4569",
+    "nome" : "robotica"
+}
